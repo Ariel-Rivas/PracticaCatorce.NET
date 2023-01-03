@@ -1,0 +1,7 @@
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA CATORCE\EjProgramacionSincrona\EjProgramacionSincrona\bin\Debug\EjProgramacionSincrona.exe.config
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA CATORCE\EjProgramacionSincrona\EjProgramacionSincrona\bin\Debug\EjProgramacionSincrona.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA CATORCE\EjProgramacionSincrona\EjProgramacionSincrona\bin\Debug\EjProgramacionSincrona.pdb
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA CATORCE\EjProgramacionSincrona\EjProgramacionSincrona\obj\Debug\EjProgramacionSincrona.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA CATORCE\EjProgramacionSincrona\EjProgramacionSincrona\obj\Debug\EjProgramacionSincrona.csproj.CoreCompileInputs.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA CATORCE\EjProgramacionSincrona\EjProgramacionSincrona\obj\Debug\EjProgramacionSincrona.exe
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA CATORCE\EjProgramacionSincrona\EjProgramacionSincrona\obj\Debug\EjProgramacionSincrona.pdb

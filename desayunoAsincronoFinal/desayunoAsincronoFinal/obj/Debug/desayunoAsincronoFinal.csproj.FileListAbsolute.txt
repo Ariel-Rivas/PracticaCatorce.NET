@@ -1,0 +1,2 @@
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA CATORCE\desayunoAsincronoFinal\desayunoAsincronoFinal\obj\Debug\desayunoAsincronoFinal.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA CATORCE\desayunoAsincronoFinal\desayunoAsincronoFinal\obj\Debug\desayunoAsincronoFinal.csproj.CoreCompileInputs.cache

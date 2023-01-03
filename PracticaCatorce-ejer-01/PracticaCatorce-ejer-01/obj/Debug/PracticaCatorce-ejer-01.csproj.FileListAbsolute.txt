@@ -1,0 +1,2 @@
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA CATORCE\PracticaCatorce-ejer-01\PracticaCatorce-ejer-01\obj\Debug\PracticaCatorce-ejer-01.csprojAssemblyReference.cache
+C:\Users\ariel\Desktop\TRABAJO\Practica .NET\PRACTICA CATORCE\PracticaCatorce-ejer-01\PracticaCatorce-ejer-01\obj\Debug\PracticaCatorce-ejer-01.csproj.CoreCompileInputs.cache
